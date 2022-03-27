@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Darby_Johnson/static/css/main.06151359.css",
+    "main.js": "/Darby_Johnson/static/js/main.6a34bbd9.js",
+    "static/media/Darby_Johnson.jpg": "/Darby_Johnson/static/media/Darby_Johnson.8d8564cc9288ff5ed63e.jpg",
+    "static/media/background.jpg": "/Darby_Johnson/static/media/background.1ecffdebc747ac8f0100.jpg",
+    "index.html": "/Darby_Johnson/index.html",
+    "main.06151359.css.map": "/Darby_Johnson/static/css/main.06151359.css.map",
+    "main.6a34bbd9.js.map": "/Darby_Johnson/static/js/main.6a34bbd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06151359.css",
+    "static/js/main.6a34bbd9.js"
+  ]
+}
