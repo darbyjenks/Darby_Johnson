@@ -6,7 +6,7 @@ function ContactMe() {
     const [header, setHeader] = useState('Darby Johnson');
 
     return(
-        <div>
+        <div id='ContactMe'>
     <Nav style={{fontSize:"25px", border:'1px black solid', marginBottom:"50px", marginTop:"50px", backgroundColor: "white"}} defaultActiveKey="/home" as="ul">
         <Nav.Item as="li">
         <Nav.Link style={{color: "black"}}>Contact Me:</Nav.Link>
@@ -21,7 +21,7 @@ function ContactMe() {
         <Nav.Link style={{color: "pink"}} href="https://github.com/darbyjenks"target="_blank" eventKey="link-1">GitHub</Nav.Link>
         </Nav.Item>
         <Nav.Item as="li">
-        <Nav.Link style={{color: "pink"}} href='https://darbyjenks.github.io/Darby-Johnson-Portfolio/' target="_blank" eventKey="link-1">Website</Nav.Link>
+        <Nav.Link style={{color: "pink"}} href='https://darbyjenks.github.io/Darby_Johnson/' target="_blank" eventKey="link-1">Website</Nav.Link>
         </Nav.Item>
     </Nav>
     </div>
